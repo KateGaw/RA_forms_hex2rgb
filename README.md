@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/h5blr4dd03pe36kw?svg=true)](https://ci.appveyor.com/project/KateGaw/ra-forms-hex2rgb)
 
 https://kategaw.github.io/RA_forms_hex2rgb/
 
